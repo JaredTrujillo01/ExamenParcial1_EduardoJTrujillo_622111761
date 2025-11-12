@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace PromoManager.Application.Services
 {
+    //DIP: depende de abstracciones del dominio.
     public class AppServices
     {
         private readonly ICouponWritter _repo;

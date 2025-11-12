@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace PromoManager.Domain.Entities
 {
+    //SRP: esta entidad solo representa un Cupón y sus reglas de negocio.
     public class Coupon
     {
         public Guid Id { get; private set; }

@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace PromoManager.Application.Mappers
 {
+    //SRP: esta clase solo se encarga de la conversión entre entidades
     public static class CouponMapper
     {
         public static CouponDTOs ToDto(this Coupon coupon)

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace PromoManager.Application.DTOs
 {
+    //ISP: Interfaz de escritura separada de la lectura.
     public class CouponDTOs
     {
         public Guid Id { get; set; }
