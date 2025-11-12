@@ -1,0 +1,15 @@
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\bin\Debug\net8.0\PromoManager.Application.deps.json
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\bin\Debug\net8.0\PromoManager.Application.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\bin\Debug\net8.0\PromoManager.Application.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\bin\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\bin\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.csproj.AssemblyReference.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.AssemblyInfoInputs.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.AssemblyInfo.cs
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoMan.9FC89D47.Up2Date
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\refint\PromoManager.Application.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\PromoManager.Application.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Application\obj\Debug\net8.0\ref\PromoManager.Application.dll

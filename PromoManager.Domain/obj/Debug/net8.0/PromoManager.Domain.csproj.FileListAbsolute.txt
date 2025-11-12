@@ -1,0 +1,11 @@
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\bin\Debug\net8.0\PromoManager.Domain.deps.json
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\bin\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\bin\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.AssemblyInfoInputs.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.AssemblyInfo.cs
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\refint\PromoManager.Domain.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Domain\obj\Debug\net8.0\ref\PromoManager.Domain.dll

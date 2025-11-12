@@ -1,0 +1,17 @@
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Infrastructure.deps.json
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Infrastructure.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Infrastructure.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Application.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Domain.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Application.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\bin\Debug\net8.0\PromoManager.Domain.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.AssemblyInfo.cs
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoMan.9736B7AC.Up2Date
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\refint\PromoManager.Infrastructure.dll
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\PromoManager.Infrastructure.pdb
+C:\Users\ch14j\OneDrive\Documentos\Examen1_EduardoTrujillo_622111761\PromoManager.Infrastructure\obj\Debug\net8.0\ref\PromoManager.Infrastructure.dll
