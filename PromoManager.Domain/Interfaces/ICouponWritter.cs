@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace PromoManager.Domain.Interfaces
 {
+    //ISP: interfaz de escritura separada de la lectura.
     public interface ICouponWritter
     {
         Task AddAsync(Coupon coupon);
